@@ -1,0 +1,18 @@
+{
+  "CONTRACT_ADDRESS": "0x096f7A86b3995a6856880A3D7Fa84F095856FB43",
+  "SCAN_LINK": "https://polygonscan.com/token/0x096f7A86b3995a6856880A3D7Fa84F095856FB43",
+  "NETWORK": {
+    "NAME": "Polygon",
+    "SYMBOL": "Matic",
+    "ID": 137
+  },
+  "NFT_NAME": "PeaZ",
+  "SYMBOL": "peaz",
+  "MAX_SUPPLY": 10000,
+  "WEI_COST": 100000000000000000000,
+  "DISPLAY_COST": 100,
+  "GAS_LIMIT": 285000,
+  "MARKETPLACE": "Opeansea",
+  "MARKETPLACE_LINK": "https://opensea.io/collection/peaz",
+  "SHOW_BACKGROUND": true
+}
